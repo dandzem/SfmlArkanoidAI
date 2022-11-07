@@ -1,10 +1,3 @@
-/*
- * globals.h
- *
- *  Created on: 6 нояб. 2022 г.
- *      Author: Danila
- */
-
 #ifndef GLOBALS_H_
 #define GLOBALS_H_
 
