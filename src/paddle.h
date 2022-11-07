@@ -1,10 +1,3 @@
-/*
- * Paddle.h
- *
- *  Created on: 6 нояб. 2022 г.
- *      Author: Danila
- */
-
 #ifndef PADDLE_H_
 #define PADDLE_H_
 
