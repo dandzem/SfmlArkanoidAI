@@ -1,10 +1,3 @@
-/*
- * Timer.h
- *
- *  Created on: 6 нояб. 2022 г.
- *      Author: Danila
- */
-
 #ifndef TIMER_H_
 #define TIMER_H_
 
