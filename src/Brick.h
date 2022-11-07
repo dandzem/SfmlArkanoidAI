@@ -1,10 +1,3 @@
-/*
- * Brick.h
- *
- *  Created on: 6 нояб. 2022 г.
- *      Author: Danila
- */
-
 #ifndef BRICK_H_
 #define BRICK_H_
 
