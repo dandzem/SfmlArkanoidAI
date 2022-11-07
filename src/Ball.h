@@ -1,10 +1,3 @@
-/*
- * Ball.h
- *
- *  Created on: 6 нояб. 2022 г.
- *      Author: Danila
- */
-
 #ifndef BALL_H_
 #define BALL_H_
 
